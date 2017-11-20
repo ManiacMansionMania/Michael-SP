@@ -1,0 +1,1974 @@
+// AGS TRANSLATION SOURCE FILE
+// Format is alternating lines with original game text and replacement
+// text. If you don't want to translate a line, just leave the following
+// line blank. Lines starting with '//' are comments - DO NOT translate
+// them. Special characters such as [ and %%s symbolise things within the
+// game, so should be left in an appropriate place in the message.
+// 
+// ** Translation settings are below
+// ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
+//#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
+//#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
+//#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+// ** NOT CHANGE THE EXISTING TEXT.
+
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
+Gehe zu %s
+Go to %s
+Schau an %s
+Look at %s
+Rede mit %s
+Talk to %s
+Gib !s an %s
+Give !s to %s
+Gib %s
+Give %s
+Nimm %s
+Take %s
+Benutze !s mit %s
+Use !s with %s
+Benutze %s
+Use %s
+Öffne %s
+Open %s
+Schließe %s
+Close %s
+Drücke %s
+Push %s
+Ziehe %s
+Pull %s
+Wechsle zu %s
+Switch to %s
+!s
+!s
+%s
+%s
+%d. 
+%d.
+>
+>
+$
+$
+%s>%c
+%s>%c
+>n
+>n
+JjNn
+YyNn
+a_button_give 5 802 803 Dd
+a_button_give 0 1 2 Qq
+a_button_pick_up 2 800 801 Ee
+a_button_pick_up 1 7 8 Ww
+a_button_use 1 794 795 Ww
+a_button_use 2 13 14 Ee
+a_button_open 3 790 791 Aa
+a_button_open 3 3 4 Aa
+a_button_look_at 0 788 789 Qq
+a_button_look_at 4 9 10 Ss
+a_button_push 7 798 799 Xx
+a_button_push 5 15 28 Dd
+a_button_close 4 796 797 Ss
+a_button_close 6 5 6 Yy
+a_button_talk_to 8 804 805 Cc
+a_button_talk_to 7 11 12 Xx
+a_button_pull 6 792 793 Yy
+a_button_pull 8 29 30 Cc
+font_320: 1  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+
+font_640: 13 14 14 14 14 14 14 14 14 14 14 14 14 14 14
+
+Das ist schon zu.
+
+Das ist schon offen.
+
+error: SetString buffer error!
+
+error: GetString buffer error!
+
+@
+
+%s%c
+%s%c
+Was machst du den ganzen Tag in deinem Zimmer?
+
+Ich hab deine Bücher zurück zur Bücherei gebracht.
+
+Kommen heute wieder deine Freaks?
+
+Viel Spaß weiterhin!
+
+"Für dich grenzt die Welt an den Wänden dieses Raumes..."
+
+"...aber für meinen Geist sind diese Schranken erst der Anfang!"
+
+"Wir können ja mal ausprobieren, ob dein Kopf wirklich so einfach durch die Wände geht..."
+
+"Mein Körper ist an diese Gesetze gebunden, aber nicht mein Geist."
+
+"Merke dir das, junger Sprößling der Familie, merke dir das gut..."
+
+"Dad hat recht, du bist verrückt."
+
+"Wie freundlich, aber nicht überrschend."
+
+"Du bist eher der chaotisch-gute Typ."
+
+"Danke."
+
+"Dafür erhältst du 25 Erfahrungspunkte."
+
+"Nochmals danke, obwohl ich keine Ahnung habe, was ich damit soll."
+
+"Nein, heute kommen die edlen Helden nicht zusammen."
+
+"Nun Helden sind das nun wirklich nicht."
+
+"In dieser Welt nicht, aber in den Welten wo wir hausen!"
+
+"Kannst du von dir behaupten schonmal eine Gorgone geköpft zu haben?!"
+
+"Nein, aber mal mit Dave den großen Weihnachtsbaum auf dem Rathausplatz."
+
+"Das war cool..."
+
+"Auf das das Glück dir hold bleibe."
+
+Wie geht es dir, Oma?
+
+Warum gehst du nicht nach draußen?
+
+Wo wir gerade bei den Morrinsons sind...
+
+Hast du mein Bild von Dave gesehen?
+
+Erzähl mir von Opa.
+
+Tschau Oma...
+
+"Mir ist stinklangweilig!"
+
+"Ich werde hier hin gesetzt und es wird scharmos ausgenutzt, dass ich nicht laufen kann!"
+
+"Mum, du KANNST laufen."
+
+"Außerdem hätte ich nichts dagegen, wenn du dich eine Zeit lang zu neimem Mann ins Wohnzimmer setzen würdest..."
+
+"Ich werde mich wohl kaum zu diesem verfetteten Faulpelz setzen!"
+
+"Schon gut... beruhige dich..."
+
+"Draußen stinkt es, kein Vergleich zu meiner Kindheit..."
+
+"...damals hat es überall nahezu geduftet!"
+
+"Aber du bist doch garnicht in Ronville aufgewachsen."
+
+"Nichtmal in Amerika."
+
+"Ich sags ja immer, das liegt nur an diesem Land. "
+
+"Keine vernünftigen Menschen hier..."
+
+"...naja, bis auf die Morrinsons. Das sind anständige Leute!"
+
+"Hast du irgendwelche Sachen gesehen, die aus ihrem Haus verschwunden seien könnten?"
+
+"Was für eine absurter Einfall, die Morrinsons passen auf ihr Sachen auf."
+
+"Mich hat Allexis auch schon darauf angesprochen. "
+
+"Warum sollte ich Bilder der Morrinsons klauen?"
+
+"Bilder?"
+
+"Ich hab zuerst gefragt, Junge!"
+
+"Vielleicht..."
+
+"...um dein abgrundtiefstes Bedürfnisse zu erfüllen,..."
+
+"...ein Familienmidglid der Morrinsons zu sein."
+
+"Das Bild von dieser verweichlichten, kleinen Heulsuse?"
+
+"Ähm...vermutlich ja..."
+
+"Das hab ich im Klo runtergespült."
+
+"Warum das nun wieder?"
+
+"Ich brauchte den Bilderrahmen, das ist doch einleuchtend!"
+
+"Was lernen die Kinder heutzutage eigentlich noch in der Schule?!"
+
+"Das George Bush von Gott auserwählt und die EU zusammen mit Darwin böse und satanistisch ist..."
+
+"Ich hatte eher an Logik gedacht!"
+
+"Dein Opa war ein schrecklicher Dummkopf!"
+
+"Kein Wunder das deine Mutter so unfähig ist, das hat sie alles von ihm."
+
+"Falls es dir nicht aufgefallen ist, ich bin derzeit anwesend..."
+
+"Da siehst du es, als würden wir das nicht wissen..."
+
+"...und dann hat sie auch noch diesen Idioten geheiratet!"
+
+"Um auf Opa zurück zu kommen."
+
+"Ist abgehauen als deine Eltern dieses Haus gekauft und das Stockwerk unterm Dach ausbauen wollten."
+
+"Er wollte sich wahrscheinlich vor der Arbeit drücken!"
+
+"Naja, als wir angefangen haben, war er noch da..."
+
+"So ein Unsinn!"
+
+"Das kommt mir alles recht schwammig vor..."
+
+"Nichts ist schwammig! Dein Großvater ist einfach abgehauen."
+
+"Genau, lass dein arme alte Oma hier alleine sitzen..."
+
+"Aber du bist nicht alleine."
+
+"Die Morrinsons, hätten sowas nicht zugelassen!"
+
+Credit Module has reached maximum %d lines, contact game author and tell them to increase CREDIT_MAX_LINES
+
+%c
+
+A
+
+%4d %4d %s
+
+Credits module 1.13 by SSH
+
+*ERROR*: Konnte %s nicht zu spielbaren Chars hinzufügen.
+
+Ist bereits vorhanden.
+
+Bereits drei spielbare Chars vorhanden.
+
+*ERROR*: Hier bin ich doch :)
+
+*ERROR*: Ne, %s ist nicht in der Liste!
+
+*ERROR*: Kann %s jetzt nicht entfernen.
+
+*ERROR*: Kann %s nicht entfernen, da er nicht hinzugefügt wurde.
+
+error: Talk view isn't assigned!
+
+%%%dc
+
+MMM_GO
+
+scrnshot.bmp
+
+Besser nicht.
+
+Tja, scheint nicht zu klappen.
+
+Fasziniernd.
+
+Könnte ein interessantes Motiv abgeben...
+
+Das nennt man %s.
+
+Ich bin doch kein Drücker.
+
+Ich bin doch kein Zieher.
+
+Das will ich nicht mit mir rumschleppen.
+
+Das kann und werde ich nicht tun.
+
+Ich habe nichts zu sagen.
+
+Mir ist nicht nach Reden zumute.
+
+Später vielleicht.
+
+Das lasse ich besser.
+
+Das hab ich schon bei mir. Ich kann es nicht noch einmal aufnehmen.
+
+Wozu?
+
+Es bewegt sich nicht.
+
+Das lässt sich nicht öffnen.
+
+Das lässt sich nicht schließen.
+
+Das ist jemand anderes.
+
+Zu schwer.
+
+Das bringt nichts.
+
+Schließen? Gehts noch?
+
+Öffnen? Gehts noch?
+
+Benutzen? Gehts noch?
+
+Vielleicht später. Momentan schaut er gerade eine Kochsendung.
+
+Das ist mein Dad bei seiner Lieblingsbeschäftigung...
+
+... Mr.Miller hat wirklich keinen guten Einfluss auf ihn.
+
+Netter Witz.
+
+Oma, wie sie leibt und... nun lebt.
+
+Star mich nicht so an!
+
+Hinter diesem niedlichen Gesicht schlummert eine kleine Bestie...
+
+Du bist aber ganz schön mistrauisch!
+
+Das gehört zum natürlichen Drang des Überlebens...
+
+Da magst du recht haben.
+
+Das ist meine Mutter, die in der Küche rumwerkelt.
+
+Das ist mein Bruder. Mit seinen Gedanken ist er wahrscheinlich an weit, weit entfernten Orten...
+
+Hallo Bruderherz.
+
+Text
+
+Wie kann ich Ihnen dienen?
+
+Speichern
+
+Laden
+
+Spielen
+
+Beenden
+
+@OVERHOTSPOT@
+
+Pause.  Leertaste für weiter.
+
+Wählen Sie ein Spiel zum Laden
+
+Abbruch
+
+Name für das Spiel
+
+OK
+
+99.
+
+Sind Sie sicher, dass Sie aufhören wollen? (J/N)
+
+Sind Sie sicher, das Sie neustarten wollen? (J/N)
+
+Dave
+
+Syd
+
+Michael
+
+Wendy
+
+Bernard
+
+Razor
+
+Jeff
+
+Dr. Fred
+
+Nurse Edna
+
+Weird Ed
+
+Meteor
+
+Green Tentacle
+
+Purple Tentacle
+
+Mark Eteer
+
+Wink Smiley
+
+Police
+
+Sandy
+
+Marcy
+
+Britney
+
+Mandy
+
+Andy
+
+Koslowski
+
+Radiosprecher
+
+Postbote
+
+Ding
+
+Bruder
+
+Dad
+
+Mum
+
+Oma
+
+Schwester
+
+Fernbedienung
+
+dummy
+
+Das sit Ding!
+
+...und das war ein Rechtschreibfehler!
+
+Jetzt geh schnell ins Forum und melde ihn!
+
+No hotspot
+
+Hotspot 3
+
+Hotspot 4
+
+Hotspot 5
+
+Hotspot 6
+
+Hotspot 7
+
+Hotspot 8
+
+Hotspot 9
+
+Hotspot 10
+
+Hotspot 11
+
+Hotspot 12
+
+Hotspot 13
+
+Hotspot 14
+
+Hotspot 15
+
+Hotspot 16
+
+Hotspot 17
+
+Hotspot 18
+
+Hotspot 19
+
+Hotspot 20
+
+Hotspot 21
+
+Hotspot 22
+
+Hotspot 23
+
+Hotspot 24
+
+Hotspot 25
+
+Hotspot 26
+
+Hotspot 27
+
+Hotspot 28
+
+Hotspot 29
+
+Hotspot 30
+
+Hotspot 31
+
+Hotspot 32
+
+Hotspot 33
+
+Hotspot 34
+
+Hotspot 35
+
+Hotspot 36
+
+Hotspot 37
+
+Hotspot 38
+
+Hotspot 39
+
+Hotspot 40
+
+Hotspot 41
+
+Hotspot 42
+
+Hotspot 43
+
+Hotspot 44
+
+Hotspot 45
+
+Hotspot 46
+
+Hotspot 47
+
+Hotspot 48
+
+Hotspot 49
+
+Start
+
+_tv_44_view_ 81
+
+Und natürlich Briefmarke nicht vergessen!
+
+Schalten sie auch Morgen wieder ein.
+
+Hotspot 1
+
+Hotspot 2
+
+[]~
+
+Michael-Starterpack]
+
+SeltsamMitHut (Original)
+
+Rulaman (neue Version)
+
+]BETA-Tester]
+
+SeltsamMitHut
+
+]Graphiken]
+
+---
+
+]Übersetzung für AGS 3.0]
+
+Rulaman
+
+]AdventureGameStudio 3.0]
+
+Chris Jones
+
+]Credit-Modul:]
+
+SSH
+
+]Diese Episode:~
+
+<Autor>
+
+ [Idee:]
+
+] [zusätzliche Grafiken:]
+
+] [zusätzliches Skripting:]
+
+] [gewidmet:]
+
+allen Adventure-Freunden
+
+]~
+
+Wenn es regnet, kommt da Wasser raus.
+
+Ich brauche kein Regenrohr.
+
+Nein, danke...
+
+Ich benutze lieber die Treppe.
+
+Das würde die Regenrinne nur kaputt machen.
+
+Warum sollte ich das Rohr unten zu machen.
+
+Das scheint fest zu sitzen.
+
+Warum sollte ich das Rohr damit verstopfen?
+
+Unser altes Garagentor.
+
+unnnghh...
+
+Wir sollten es wirklich mal wieder ölen...
+
+Das Garagentor ist schon zu.
+
+Nur diese Bretter trennen uns von den Morrisons.
+
+Damit wir unseren Sichtschutz zu den Morrisons verlieren?
+
+Nie und nimmer.
+
+Ich könnte... nein.
+
+Ich könnte ein kleines Loch reinmachen, aber dazu fehlt mir das richtige Werkzeug.
+
+Der Zaun bietet uns genug Sichtschutz.
+
+Nicht ohne driftigen Grund.
+
+Normalerweise werfen wir nur Schnecken über diesen Zaun...
+
+Da wohnen die Morrisons, unsere penetranten Nachbarn.
+
+Ich glaube kaum, dass sich unsere Nachbarn einfach so ihr Grundstück nehmen lassen.
+
+Ich wüsste nicht, was ich damit anstellen sollte.
+
+Den Garten der Morrisons umgraben? Klasse Idee. Aber Miss Morrison ist eigentlich ganz in Ordnung.
+
+Da gibt es nicht zu schließen.
+
+Das geht so nicht.
+
+Vorgarten
+
+Rohr
+
+Garagentor
+
+Zaun
+
+Nachbargrundstück
+
+Eine äußerst denkwürdige Nummer.
+
+Nix da. Die bleibt dran.
+
+Ohne Werkzeug bekomme ich die nicht ab.
+
+Dahinter ist nur die Wand.
+
+Da gibt es nichts zu schließen.
+
+Die scheint bombenfest zu sitzen.
+
+Unser Briefkasten.
+
+Der bleibt da hängen. Sonst bekommen wir keine Post mehr.
+
+Ich will mir keinen Brief schicken.
+
+Keine Post da.
+
+Der Briefkasten ist schon zu.
+
+Das passt schon so.
+
+Ich kann das Wohnzimmer sehen...
+
+...nur leider nicht viel davon.
+
+Dad sitzt auf der Couch.
+
+Wie stellst du dir das vor?
+
+Ich könnte meine Nase dagegen drücken, aber Mom hätte was dagegen.
+
+Das Fenster lässt sich nicht öffnen.
+
+Das Fenster ist schon zu.
+
+Das bringt mir nichts.
+
+Seine Wurzeln reichen tief...
+
+Einen Bagger... ich brauche einen Bagger.
+
+Wir haben in unserem Haus ein Wasserklosett.
+
+Da drin' steckt nichts.
+
+Der Busch ist sauber beschnitten und geschlossen.
+
+Also mit anderen Worten Blickdicht.
+
+<raschel>
+
+Ich kann unseren Eingangsflur sehen.
+
+Haustür>v
+
+Garage
+
+Hausnummer
+
+Briefkasten
+
+Fenster
+
+Busch
+
+In Wirklichkeit ist dies ein Spiegel...
+
+...er soll dieses Zimmer \"größer\" erscheinen lassen.
+
+Ich komme nicht ran.
+
+Und mit was?
+
+Es scheint zu zu sein.
+
+Nein.
+
+Ich kann das Haus der Millers auf der anderen Straßenseite sehen.
+
+Das bleibt zu.
+
+Das Fenster ist doch schon zu.
+
+Das funktioniert so nicht.
+
+Eine Lampe unter vielen.
+
+Dann bleibt es in der Nacht nur dunkel.
+
+Es ist hell genug.
+
+Die Lampe muss nicht geöffnet werden.
+
+Die Lampe ist sauber verschraubt.
+
+Die Lampe hängt da gut.
+
+Die hab ich aus Damskus mitgebracht!
+
+Ahhh... da werden Erinnerungen wach.
+
+Ich möchte sie nicht beschädigen!
+
+Ich bin heute nicht mit gießen dran.
+
+Eigentlich muss ich gar nicht gießen.
+
+Das würde der Pflanze nur schaden.
+
+Das geht nicht.
+
+Fast alles Bücher über Emuzucht...
+
+Jetzt bin ich ein bisschen verwirrt.
+
+Nein, ich möchte keine Emus züchten.
+
+Die Bücher interessieren mich nicht.
+
+Die Bücher im Regal sind schon geschlossen.
+
+Das ist mir zu schwer.
+
+Was erwartest du?
+
+Einen Geheimgang?
+
+Tür>v
+
+Treppe
+
+Oberlicht
+
+Lampe
+
+Pflanze
+
+Bücher
+
+Regal
+
+Ich kann Daves Haus sehen.
+
+Das ist nicht dein ernst!
+
+Ich komme nicht ran um es zu öffnen.
+
+Noch eine dieser Lampen.
+
+Warum?
+
+Die werden zentral über einen Schalter gesteuert.
+
+Ich brauche keine Glühbirne.
+
+Die ist doch schon zu.
+
+Eine wunderbare Landschaftsaufnahme.
+
+Dazu brauche ich Farbe.
+
+Dahinter ist kein Safe.
+
+Das Bild hängt schon an der Wand. Und außerdem gibt es da nichts zu schließen.
+
+Da hilft kein Ziehen und kein Drücken.
+
+Man kann Dads Platz deutlich erkennen.
+
+Alleine?
+
+Mir ist jetzt nicht nach rumsitzen zumute.
+
+Ich zerstöre doch nicht unsere Wohnzimmereinrichtung.
+
+Das hat eine zu große Reibung, dass ich es nicht alleine schaffe.
+
+Sowas gehört nicht auf diese Couch!
+
+Fast alle in Ronville haben diesen Fernseher.
+
+Damit Dad mich verhaut? Ich hab' das einmal versucht.
+
+Ich brauche keine Elektronik.
+
+Der Deckel ist bereits zu.
+
+Ich möchte das nicht.
+
+Das möchte nicht fernsehen.
+
+Bild
+
+Couch
+
+Fernseher
+
+Steckdosen sind in diesem Haus äußerst rar.
+
+Damit wir noch weniger Steckdosen haben?
+
+Da fasse ich nicht rein...
+
+Nicht noch einmal.
+
+Dahinter sind nur die Stromleitungen.
+
+Die Steckdose sitzt doch schon fest genug.
+
+Was für ein häßliches Foto.
+
+Die Beleuchtung ist grauenhaft, das sieht doch jeder Amateur!
+
+Würde ich gerne, aber ich habe kein passendes Foto als Ersatz.
+
+Tja...
+
+Das hängt da gut.
+
+Da lässt sich nichts schließen.
+
+Das Bild sitzt bereits gerade.
+
+Diese Lampen gibt es aber wirklich in vielen Ausführungen.
+
+Und wo ist der Schalter dazu?
+
+Der Schirm sitzt bereits auf der Lampe.
+
+Das würde Mom nicht zulassen.
+
+Steckdose
+
+Kein Zweifel...
+
+Das bin ich!
+
+Da sind nur Moms Schminksachen und Papas Parfum drin.
+
+Der Spiegel ist bereits zu.
+
+Der Inhalt interessiert mich nicht.
+
+Das hinterlässt nur Flecken.
+
+Eines unserer Waschbecken.
+
+Ich schraube doch keine Waschbecken ab.
+
+Meine Hände sind sauber genug.
+
+Da sitzen jede Menge Haare und Fusseln im Abfluß.
+
+Und was soll das bringen?
+
+Das Waschbecken ist genau da wo es ist gut.
+
+Die gleiche Lampenvariation wie auch im Eingangsflur.
+
+Ich schraube doch keine Lampen ab.
+
+Einschalten... Tja.
+
+Ich kann von hier aus unseren Garten sehen.
+
+Das Fenster ist fest im Rahmen gemacht.
+
+Das öffne ich nicht, sonst kommt noch ein Morrison auf dumme Ideen.
+
+Das Fenster ist bereits zu.
+
+Wow!
+
+Oh, doch nicht.
+
+Ich schleppe doch kein Klo mit mir herum.
+
+Ich muss nicht.
+
+Außerdem kann ich nicht wenn jemand zuguckt.
+
+Die Toilette hat komischerweise keinen Deckel.
+
+Ohne Deckel?
+
+Die Toilette ist an diesen Platz gebunden.
+
+Ich verstopfe zwar gerne Toiletten...
+
+...aber jetzt habe ich besseres zu tun.
+
+Damit kann man Exkremente geradewegs in die Hölle schicken.
+
+Der Knopf ist festgemacht.
+
+Der Drücker lässt sich nicht ziehen.
+
+Unsere Badewanne.
+
+Die ist mir zu schwer.
+
+Ich habe gerade erst geduscht.
+
+Spiegel
+
+Waschbecken
+
+Toilette
+
+Spülung>u
+
+Badewanne
+
+Sie ist abgeschlossen.
+
+Diese Tür führt zu unserem Garten.
+
+Die lässt sich nur schwer nehmen.
+
+Und wie bitte?
+
+Die Tür ist bereits zu.
+
+Ich will nicht in den Garten.
+
+Ein ganz normaler Herd.
+
+Ja klar.
+
+Ich möchte nichts kochen.
+
+Ich brauche ihn nicht zu öffnen, wenn ich nicht kochen will.
+
+Der Herd ist doch schon zu.
+
+Das will ich nicht hier kochen.
+
+Eine Spülmaschine.
+
+Da hab ich mal aus versehen Ding reingesteckt.
+
+Ich habe nichts abzuspülen.
+
+Nur wenn ich was zum spülen habe.
+
+Die Tür ist doch zu.
+
+Die steht da gut.
+
+Das muss nicht abgespült werden.
+
+Eine Spüle.
+
+Ich weiß nicht warum man sowas braucht, wenn man eine Spülmaschine hat.
+
+Und wie genau soll ich das machen?
+
+Ich habe nichts zum spülen.
+
+Die Spüle ist schon auf.
+
+Die Spüle hat keinen Deckel.
+
+Die Spüle ist in die Arbeitsplatte eingelassen.
+
+Die lässt sich also nicht nehmen.
+
+Eine Sitzecke.
+
+Ein bisschen eng für sechs Leute.
+
+Dafür würde mich Mom aber mehr als tadeln.
+
+Ich will mich nicht setzen.
+
+Eine Sitzgruppe?
+
+Die hat da schon seit Ewigkeiten ihren Platz. Und die bleibt da.
+
+Ich frage mich ob die Lampe im Kühlschrank...
+
+... auch an ist wenn die Tür zu ist?!
+
+Der ist mir eindeutig zu schwer.
+
+Ich habe keinen Hunger.
+
+Der Kühlschrank ist schon zu.
+
+Der lässt sich nicht verschieben.
+
+Herd
+
+Spülmaschine 
+
+Hintertür
+
+Tisch
+
+Kühlschrank
+
+Das hab ich in der Nacht geschossen, in der ich Ding kennengelernt habe.
+
+Das gefällt Ding so gut, dass ich es da hängen lasse.
+
+Hinter dem Bild steht nur das Datum.
+
+Das bleibt genau da, wo es ist.
+
+Man kommt nicht ohne Lampen aus.
+
+Nein, diese Lampe nicht.
+
+Wenn ich den Schalter finde, gerne.
+
+Der Lampenschirm bleibt dran.
+
+Der Lampenschirm sitzt auf der Lampe und ist gerade. Da gibt es also nichts zu schließen.
+
+Ein kleines Schränkchen, igendwie niedlich.
+
+Mein Zimmer ist voll von aderen Sachen. Das passt da nicht rein.
+
+Ich habe nichts zu reintun.
+
+Einmal habe ich aus versehen Ding da eingesperrt. Seitdem achte ich genau darauf, wann ich es öffne.
+
+Das Schränkchen ist bereits zu.
+
+Ich will es nicht verschieben.
+
+Ich kann die Straße vor unserem Haus sehen.
+
+Das bleibt so.
+
+Das Fenster ist doch zu.
+
+Das lässt das Fenster nicht mit sich machen.
+
+Schränkchen
+
+Eine ziemlich nützliche Erfindung.
+
+Dann hätten wir nur noch ein Klo, und das ist zu wenig.
+
+Der ist doch schon zu, der Deckel.
+
+Nein, ich habe keine Zeit die Toilette damit zu verstopfen.
+
+Diese Lampen sind wirklich überall.
+
+Wo schaltet man die doch gleich wieder ein?
+
+Der Lampenschirm bleibt genau da, wo er ist.
+
+Jetzt nicht.
+
+Äh, ja.
+
+Ich sehe heute aber wieder gut aus.
+
+Ich habe bereits einen Taschenspiegel.
+
+Irgendwo in meinem Zimmer.
+
+Ist da ein graues Haar?
+
+Dahinter ist nichts.
+
+Einen Spiegel kann man nicht schließen.
+
+Ein blitzblank sauberes Waschbecken.
+
+Das ist festgemacht.
+
+Meine Hände sind bereits sauber.
+
+Eine kleine praktische Dusche.
+
+Und wie genau stellst du dir das vor?
+
+Ich habe erst heute Morgen geduscht.
+
+Der Duschvorhang ist bereits zurückgezogen.
+
+Nur wenn ich duschen will.
+
+Da gibt es nichts zu ziehen.
+
+Da gibt es nichts zu drücken.
+
+Dusche
+
+Das habe ich Mum und Dad zum Hochzeitstag geschenkt.
+
+Wenn ich einen passenden Ersatz finde, gerne.
+
+Diese Bild zeigt einen Ausblick über Ronville.
+
+Direkt vom Dach der Schule.
+
+Dahinter ist nur das Datum der Aufnahme und...
+
+<nix>
+
+Ich könnte ein Laken drüberhängen.
+
+Warum? Das passt doch so.
+
+Das Bild sitzt gerade.
+
+Zweifelos die zweithübscheste Lampe im Haus.
+
+Bekomme ich 'nen Preis, wenn ich alle Lampen im Haus einsammle?
+
+Einschalten wäre besser.
+
+Hinter dem Lampenschirm befindet sich eine Energiesparlampe.
+
+Aber ich brauche keine.
+
+Die ist doch zu!
+
+Scheint mit leicht locker zu sein.
+
+Da lasse ich lieber die Finger weg.
+
+Darin bewahren meine Eltern ihre Kleidung auf.
+
+Der ist mir zu schwer.
+
+Ich habe meinen eigenen Kleiderschrank.
+
+Warum sollte ich die Sachen meiner Eltern durchsuchen?
+
+Der Schrank ist schon zu.
+
+Der Schrank lässt sich nicht verschieben.
+
+Das Bett meiner Eltern.
+
+Ich könnte es zerlegen und in Einzelteilen abtransportieren...
+
+Aus dem Alter bin ich raus.
+
+Ich ziehe doch nicht an der Bettdecke meiner Eltern.
+
+Das klappt nicht.
+
+Das klappt so nicht.
+
+Das gehört zur Zeit nicht in dieses Bett.
+
+Kleiderschrank
+
+Bett
+
+%d
+
+Oma hat mich einmal mit dem Stock verhauen, als ich es versucht habe.
+
+Aber das ist lange her...
+
+Dahinter hat Oma einen Safe.
+
+Ich will das Bild nicht ziehen. Nicht jetzt.
+
+Das Bild hängt bereits gerade.
+
+Das sind Fotos von irgendwelchen fremden Leuten.
+
+Wahrscheinlich hat Oma sie wieder aus den Mülltonnen der Morrisons geklaut...
+
+...oder aus ihrem Haus.
+
+Ich möchte keine wildfremden Leute mit mir herumschleppen!
+
+Anschauen, ja.
+
+Es gibt nichts zu öffnen.
+
+Ich lasse sie lieber dort stehen.
+
+Da drinnen werden Omas Sachen sein.
+
+Die Schubladen will ich nicht.
+
+Und mit was bitteschön.
+
+Ich wühle doch nicht in der Wäsche von Oma!
+
+Schließlich ist nicht Halloween...
+
+Hast du überhaupt eine Ahnung von Adventuren?
+
+Oder die eine oder andere der Morrisons.
+
+Omas Schrank ist mir zu schwer.
+
+Daraus brauche ich nichts.
+
+Der ist bereits zu.
+
+Das hilft nichts.
+
+Ich kann in unseren Garten hinunter sehen.
+
+Und wie bitte.
+
+Oma mag es nicht, wenn ich ihr Fenster öffne.
+
+Wenn's nur was bringen würde.
+
+Hier schläft Oma.
+
+Das gäbe Ärger.
+
+Ich bin nicht müde...
+
+... außerdem bevorzuge ich mein eigenes Bett.
+
+Oma würde sich nicht freuen, das in ihrem Bett zu finden.
+
+Oma ist die Einzige, die es lustig findet.
+
+Mann, gab das eine Aufregung, als sie herausgefunden haben, dass er schwarz war...
+
+...der arme Onkel Aaron - er wollte doch nur dazugehören.
+
+Nette Brille.
+
+Er hat es bis zum Zyklopen dritten Grades gebracht.
+
+Fotos
+
+Schubladen
+
+Schrank
+
+Ein Bild vom Haus der Morrisons.
+
+Wer das hier wohl aufgehängt hat?
+
+Ich habe da einen Verdacht...
+
+Es scheint festgeklebt zu sein.
+
+Ich könnte es mit Farbe überpinseln.
+
+Der Bilderrahmen lässt sich nur von hinten öffnen.
+
+Der Bilderrahmen ist bereits zu.
+
+Das Bild hängt gerade.
+
+Eine perfekte Aufnahme.
+
+Ich habe sie im Naturschutzgebiet geschossen.
+
+Damals als Dave und ich auf Bigfootjagd waren.
+
+Das gefällt mir. Ich nehme es nicht ab.
+
+Schön.
+
+Ein Bild von Mums Halbbruder Phil.
+
+Da hat wer was über Lebertransplantationen gelesen...
+
+... und dann vergessen die Bücher wieder aufzuräumen.
+
+Sowas!
+
+Ich räum' doch nicht hinter anderen auf.
+
+Und außerdem interessiere ich mich nicht für derartihe Literatur.
+
+Uninteressant.
+
+... und dann muss man, nachdem man die Gefäße abgeklemmt hat...
+
+Grässlich!
+
+Die Bücher liegen verschlossen auf dem kleinen Tisch.
+
+Ich räume anderer Leute Bücher nicht auf.
+
+Bücher, Bücher, Bücher...
+
+Die Bücher über Fotografie, darunter auch Aktfotografie sind in meinem Zimmer.
+
+Lauter uninteressante Sachen.
+
+Die interessieren mich nicht.
+
+Das Regal ist sauber aufgeräumt und sortiert.
+
+Das passt so.
+
+Zweiter Stock
+
+Das Zimmer meines großen Bruders.
+
+Er scheint Französisch zu mögen.
+
+Hier rennen Ratten rein - aber nicht raus!
+
+Das möchte ich sehen.
+
+Ich habe nichts um es zu verstopfen. Außerdem nagen die Ratten das wieder weg.
+
+Damit noch größere Ratten durch unser Hasu laufen?
+
+Ich habe nichts, das passend wäre.
+
+Reporter der Schülerzeitung verschiebt Mauseloch.
+
+Nein, einmal hat gereicht!
+
+Dr. Fred hat uns damals allen einen Sprössling als Entschädigung geschenkt.
+
+Wir hätten das Geld nehmen sollen...
+
+Dann beißt er mich.
+
+Der wurde erst gestern gegossen.
+
+Chuck aus der Erde reißen? Niemals.
+
+Ich will nicht abdecken.
+
+Chuck gefällt es da.
+
+Erster Stock
+
+Dachzimmer
+
+Mauseloch
+
+Chuck
+
+Was willst du?
+
+Mich nur umsehen...
+
+Jaja, ich pass schon auf dich auf.
+
+Bücher von Welten hinter Schränken.
+
+Dafür wird man nie zu alt.
+
+Meine Schwester will die sicher noch lesen.
+
+Das ist momentan nicht wichtig.
+
+Uiii, meine Schwester ließt aber Sachen.
+
+Die Bücher sind alle ordentlich geschlossen.
+
+Das hätte meine Schwester was dagegen.
+
+Ich kann unseren Garten sehen.
+
+Meine Schwester braucht ihr Fenster.
+
+Ich glaube sie hätte was dagegen.
+
+Und das bringt mir jetzt genau was?
+
+Willi, der lustige Zombie aus dem Klassiker >Zomies im Schnee<.
+
+Dann wirft meine Schwester mit Gegenständen nach mir.
+
+Und mit was bitteschön?
+
+Das ist an der Wand festgemacht.
+
+Ich kann es nicht zusammenrollen. Es sitzt fest.
+
+Das will ich nicht.
+
+Der Computer meiner Schwester.
+
+Dann jagt sie mich zum Teufel.
+
+Meine Schwester spielt nur Doom3 und so ein Zeug.
+
+Dafür bin ich schon zu alt.
+
+Dann geht er nur kaputt.
+
+Der ist sauber verschraubt.
+
+Das hab ich einmal versucht.
+
+Das kann man nicht ins Laufwerk stecken.
+
+Damit spielt Ding manchmal.
+
+Wenn meine Schwester mich lässt.
+
+Aber wozu brauche ich eigentlich einen Ball?
+
+Den könnte höchstens Ding gebrauchen.
+
+Dann strömt nur die Luft heraus.
+
+Das Ventil ist dicht genug.
+
+Hier schläft die kleine Bestie.
+
+Ich brauche keine neue Matratze. Außerdem ist die meiner Schwester schon so richtig zerschlissen.
+
+Was die wohl da drin' immer macht?
+
+Ach ja, sie hat einen unruhigen Schlaf.
+
+Aber das wird sich wieder legen.
+
+Früher hab ich hier mal geschlafen, als ich klein war.
+
+Aber jetzt schlafe ich normalerweise in meinem eigenem Bett.
+
+Die Bettdecke ziehe ich nicht zurück.
+
+Die Matratze ist schön weich.
+
+Ich lege ihr manchmal Mausefallen ins Bett, aber nicht sowas.
+
+Computer
+
+Ball
+
+Agent Cooper sagt:  \"Spiel nicht mit dem Feuer!\"
+
+Das würde meinem Bruder nicht gefallen.
+
+Ein Königreich für einen schwarzen Stift.
+
+Dahinter fehlt nur ein Stück Tapete. Also macht sich das Poster dort besser.
+
+Ein Poster lässt sich nicht schließen.
+
+Die Poster-Fix haftis sind nicht mehr die Besten.
+
+Das Poster würde herunterfallen.
+
+Drücken hilft da nicht viel.
+
+Die Poster-Fix Kleber lassen sich nicht mehr viel drücken.
+
+Ding hat seine Charakterbögen gefressen...
+
+Nehmen denn die Abenteuer nie ein Ende?!
+
+Ich brauche keine halben Sachen.
+
+Alleine macht das keinen Spaß.
+
+Das liegt bereits offen da.
+
+Das gehört meinem Bruder, also muss der das wegräumen.
+
+Ich will das nicht verschieben.
+
+Ich kann das Haus der Millers von hier oben sehen.
+
+Ich brauche kein Fenster.
+
+Mein Bruder hätte was dagegen. Außerdem ist mir nicht nach frischer Luft.
+
+Ein geschlossenes Fenster?
+
+Das hilft nicht.
+
+Das hinterlässt nur Fingerabdrücke.
+
+Eigentlich sind es ja Hängeschränke...
+
+...aber es geht eher um den Inhalt.
+
+Die fallen mir eher auf den Boden, als dass ich sie heben könnte.
+
+Wie - Benutzen?
+
+Ich will gar nicht wissen, was mein Bruder da drinnen hat...
+
+Gute Idee. Leider hapert es an der Umsetzung.
+
+Die Türchen sehen ziemlich klapperig aus.
+
+Die Türchen liegen nicht einmal genau an.
+
+Die Löcher in der Wand sind alle von mir.
+
+Damit in meiner Zimmerwand auch Löcher sein werden?
+
+Nein danke.
+
+Ich habe keine Pfeile.
+
+Dahinter sieht es nur noch schlimmer aus.
+
+Die klebt gut an der Wand.
+
+Die ist nur aufgemalt und daher ganz hart.
+
+Für den ultimativen Raumklang!
+
+Naja... mit Grüns Anlage kann er nicht mithalten.
+
+Der wäre für mein Zimmer zu klein.
+
+Dazu ist die Stereoanlage da.
+
+Dann habe ich einen einzelnen Lautsprecher...
+
+... und dann?
+
+Der Lautsprecher ist bereits mit der Box verschraubt.
+
+Das beschädigt nur die Membrane.
+
+Hier schläft mein Bruder.
+
+Das versuche ich nicht noch einmal...
+
+Eines Tages...
+
+Das Bett passt da am Besten in den Raum.
+
+Interessante Idee, aber nein.
+
+Grün und seine Band.
+
+Das würde ich auch gerne haben.
+
+Das Poster zeigt Grün und seine Band in Aktion.
+
+Ein Poster lässt sich nicht öffnen.
+
+Nicht in diesem Spiel.
+
+Mein Bruder ist verrückt nach dieser Band.
+
+Ich bin eher für Grün und die Saugnäpfe oder Razor und die Scummetters.
+
+Das ist nicht so einfach, wie du dir das vorstellst.
+
+Die mit Abstand schönste Lampe im ganzen Haus!
+
+Dann bekomme ich wieder kloppe.
+
+Meinem Bruder das Licht klauen? Hmm..
+
+Nene.
+
+Die sitzt fest.
+
+Seine Stereo-Anlage.
+
+Sein Stolz.
+
+Sein Heiligtum.
+
+Sein Ein und Alles.
+
+Ich habe keine Kassette zum reintun.
+
+Das Kassettendeck ist bereits zu.
+
+Außer Ein- und Ausschalten mache ich da dran nichts.
+
+Mein Bruder würde mich umbringen.
+
+Alles irgendwelche Fantasy-Romane.
+
+Ich lese keine Romane.
+
+Das interessiert mich nicht.
+
+Die sind bereits geschlossen.
+
+Kein Bedarf.
+
+Poster
+
+D&D-Spiel
+
+Schränke
+
+Dartscheibe
+
+Lautsprecherbox
+
+Foto
+
+Stereoanlage
+
+Ein Rollo.
+
+Dann kann ich keine Fotos mehr entwickeln.
+
+So klappt das nicht.
+
+Er ist bereits offen.
+
+Er ist bereits geschlossen.
+
+Meine Rotlichtlampe.
+
+Die brauche ich zum Foto-Entwickeln.
+
+Ich habe nur diese eine rote Glühbirne. Die schraube ich nicht ab.
+
+Das möchte ich nicht.
+
+Oh nein, das ist Mrs Edison...
+
+... ein Glück, dass sie zumindest etwas anhat...
+
+Ich werde es später einsortieren.
+
+Das Foto trocknet noch.
+
+Spielst du zum ersten mal Adventures?
+
+Es ist noch leicht feucht.
+
+Für einsame Stunden.
+
+Ich habe mich in letzter Zeit intensiv mit Feuern beschäftigt.
+
+Mein Genosse, ich werde ihn einrahmen.
+
+Meine neuesten Schätze...
+
+Der eBay-Seller hieß \'Edna-Mausi69\'.
+
+Bernard hatte mich zwar gewarnt, aber ich musste ihn einfach haben.
+
+... den Vergößerer natürlich... nicht Bernard!
+
+Den mussten wir zu zweit hereintragen. Den schaffe ich nicht alleine.
+
+Ich habe gerade keine Fotos, die ich vergrößern möchte.
+
+Der funktioniert wunderbar. Den will ich nicht öffnen.
+
+Der ist bereits verschraubt.
+
+Der passt nur an dieses Sideboard-Eck.
+
+Eine leere Schale.
+
+Ich brauche keine Schale.
+
+Wenn ich nur Entwickler hätte.
+
+Die Schale hat keinen Deckel.
+
+Hilfen zur Perspektive und Beleuchtung.
+
+Nicht das ich das nötig hätte!
+
+Hmm...
+
+Nicht in diesem Adventure.
+
+Damit reiße ich es nur von der Wand. Also nein.
+
+Der letzte Hinweis auf die ursprüngliche Verwendung des Raumes.
+
+Mein Hände sind sauber, und andere Sachen in diesem Raum bedürfen keiner Reinigung.
+
+Um Wasser zu verschwenden?
+
+Der Wasserhahn ist bereits zu.
+
+Arnie lässt grüssen.
+
+Die Warmwasserleitungen.
+
+Wenn ich Frust habe spiele ich daran rum.
+
+Ich habe keinen Frust.
+
+Dafür ist die Ronville Times gerade gut genug.
+
+Die liegen da aus gutem Grund.
+
+Romville! Eine aufregende Mordserie...
+
+Die sind doch schon aufgeklappt.
+
+Um die zu schützende Bodenfläche zu verkleinern? Nein!
+
+Darin sind Fotoalben und alle Materialen die man zum Entwickeln von Fotos braucht.
+
+Die sind mir zu schwer.
+
+Das sind nur alte Fotos drin.
+
+Alle Schubladen sind geschlossen.
+
+Rolladen>v
+
+Rotlicht>u
+
+Vergrößerer
+
+Entwickler-Schale
+
+Rohre
+
+alte Zeitungen
+
+Brr... dieses Zimmer haben wir seit unserem Einzug noch nie bezogen.
+
+Eine alte Spieluhr.
+
+Sie sollte hier bleiben.
+
+Ich möchte mit niemandem Ärger...
+
+Sie scheint kaputt zu sein.
+
+Die spielt so gut, dass ich sie nicht öffnen will.
+
+Die ist doch tz.
+
+Die bleibt exakt da stehen.
+
+Da muss man nichts reinwerfen.
+
+Dieser böse Clown hat mir als Kind schon immer Angst eingejagt.
+
+Niemals!
+
+Ich habe kein gutes Gefühl dabei.
+
+Mit dem mache ich nichts.
+
+Den fass ich nicht an.
+
+Von hier aus hat man einen deutlichen Blick auf den Stadtfriedhof...
+
+Das fasse ich nicht an.
+
+Lüften wäre praktisch, aber der Fenstergriff ist so dreckig...
+
+Nie im Leben. Erst muss das Fenster geputzt werden.
+
+Nicht gerade einladend...
+
+Das würde vermutlich zusammenfallen.
+
+Auf keinen Fall.
+
+Der Bezug ist dermasßen staubig, dass ich den nicht anfasse.
+
+Für wen sollte das als Kuscheltier herhalten?!
+
+Da ist Ding mal drin stecken geblieben...
+
+Du spielst nicht oft Adventures gell?
+
+Leer.
+
+Das ist bereits groß genug.
+
+Das gäbe ein tolles Foto.
+
+Redakteur der Ronviller Schülerzeitung verschiebt Mauseloch.
+
+In diesem Schrank haben unsere Vorbesitzer also den armen Jungen gefunden...
+
+Die Türen scheinen zu klemmen...
+
+...oder irgendetwas hält sie von innen zu...
+
+Das Bild muss schon Ewigkeiten hier hängen.
+
+Es lässt sich nicht von der Wand entfernen.
+
+Ein interesantes Bild. Es wechselt ständig.
+
+Das Bild lässt sich nicht öffnen.
+
+Dann beißt es.
+
+Spieluhr
+
+Puppe
+
+Früher hatte ich mal Fische...
+
+Dann hat Ding kein Bett mehr.
+
+Das ist Ding sein Schlafplatz.
+
+Der ist sauber genug. Der muss nicht ausgeschüttelt werden.
+
+Ding deckt sich nicht zu und braucht daher keine Decke.
+
+Ding gefällt es da, wo er ist.
+
+Meine neue Fotoserie...
+
+Menschen, die aussehen wie Häuser.
+
+Zeichen einer von Existenznöten dominierten Zeit.
+
+Später.
+
+Ich habe keine Fotos zum anpinnen.
+
+Nein, nicht jetzt.
+
+Ein Bild aus Downtown.
+
+Ein Hochhaus.
+
+Da passiert nichts.
+
+Da passiert auch nichts.
+
+Eine blaue Lampe. Die Sorte haben wir im ganzen Haus.
+
+Dann habe ich kein Licht mehr in meinem Zimmer.
+
+Wo war nochmal der Einschalter?
+
+Der Lampenschirm bleibt drauf.
+
+Das man das noch Fernseher nennen darf...
+
+Ich brauche keinen Fernseher.
+
+Er hat seit letzter Woche schon wieder keinen Empfang.
+
+Außer Transistoren und anderen Bauelementen ist da nichts drin.
+
+Die Abdeckung ist schon drauf.
+
+Ich möchte ihn genau da stehen haben.
+
+Damit wird der Empfang auch nicht besser.
+
+Mein Computer.
+
+Ich brauche keinen Computer.
+
+Ich habe jetzt keine Zeit um Adventures zu spielen.
+
+Das Format liest er nicht.
+
+Darin befinden sich alle Sachen die man am Schreibtisch braucht.
+
+Daraus brauche ich zur Zeit nichts.
+
+Die ist schon zu.
+
+Ich kann rechts unseren Garten und weiter links den Stadtfriedhof sehen.
+
+Das Fenster geht nicht auf.
+
+Das ist doch schon zu.
+
+Ich sehe aus wie jeden Tag.
+
+Der bleibt da hängen.
+
+Spieglein, Spieglein an der Wand...
+
+... wer ist der beste Fotograph im ganzen Land?
+
+Keine Antwort.
+
+Wow, das sah eben aus als hätte ich zwei davon...
+
+... würde Britney jetzt sagen.
+
+Ein schöner Tag heute.
+
+Und wie?
+
+Keine Lust.
+
+Du spielst nicht oft Adventures, gell?
+
+Unnütze Aktionen bringen selten Erfolg.
+
+Meine Nachtstätte.
+
+Ich bin nicht müde.
+
+Das Bett ist schon zugedeckt.
+
+Das bleibt exakt da stehen.
+
+Das will ich nicht in meinem Bett.
+
+Korb
+
+Pinnwand
+
+Onkel Aaron, das \"schwarze\" bzw. \"weiße\" Schaf der Familie.
+
